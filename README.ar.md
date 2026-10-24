@@ -1,158 +1,272 @@
-<div align="center">
+<div align="center" dir="rtl">
 
-# XXD Panel 345｜暗底剪影
+# XXD Panel 345｜ظلال على أرضية داكنة
 
-الصورة في الأعلى. في الأسفل يُضغط الموضوع والأشياء القليلة الملاصقة له إلى صور ظلية مسطحة بلا خط محيط ولا تفاصيل داخلية، تتراكب أمامًا وخلفًا في عنقود واحد يقف على أرضية داكنة واحدة مأخوذة من أعمق لون في الصورة بعد تعتيمه: مساحات رمادية باستيلية خافتة التشبع، وحبيبات دقيقة كالغواش الجاف، وشكل واحد فقط مضاء، وإلى جانبه سطر صغير بحروف لاتينية كبيرة رفيعة ذات زوائد.
+**يضغط العنصر الرئيسي في صورتك وبضعة أشياء قربه في ظلال مسطّحة تتجمّع على أرضية داكنة.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <strong>العربية</strong>
 
 </div>
 
-> مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## نماذج 16:9 يسار–يمين
-
-عشرون صورة عمودية من Unsplash بعشرين موضوعًا مختلفًا عن مجموعة الأعلى–الأسفل، وكل منها لوحة 16:9 يسار–يمين مكتملة. تبقى الصورة في اليسار، وفي اليمين عنقود من الصور الظلية المسطحة بلا خط محيط على أرضية داكنة، مناصفة دقيقة 50:50. والكلمة هنا أيضًا كلمة إنجليزية صغيرة بحروف كبيرة ذات زوائد مأخوذة من الصورة. اخترنا مواضيع عمودية طويلة أو واضحة الظل من مزهريات وطيور ونباتات وأشياء يومية، لنُظهر كيف ينزاح العنقود إلى جانب في نصف أضيق، ويترك فراغًا فوقه، ويُبقي الجانب الآخر لسطر الكتابة الصغير.
+<div dir="rtl">
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 345 sample 21 · زهور في مزهرية"><br><sub>21 · زهور في مزهرية</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 345 sample 22 · زرافة"><br><sub>22 · زرافة</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 345 sample 23 · صبار ساغوارو"><br><sub>23 · صبار ساغوارو</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 345 sample 24 · بلشون رمادي"><br><sub>24 · بلشون رمادي</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 345 sample 25 · كأس نبيذ"><br><sub>25 · كأس نبيذ</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 345 sample 26 · فطر"><br><sub>26 · فطر</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 345 sample 27 · تفاح"><br><sub>27 · تفاح</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 345 sample 28 · كلب جالس"><br><sub>28 · كلب جالس</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 345 sample 29 · فلامنغو"><br><sub>29 · فلامنغو</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 345 sample 30 · غيتار أكوستيك"><br><sub>30 · غيتار أكوستيك</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 345 sample 31 · نخلة"><br><sub>31 · نخلة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 345 sample 32 · إوزة"><br><sub>32 · إوزة</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 345 sample 33 · بومة"><br><sub>33 · بومة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 345 sample 34 · مرشّة ماء"><br><sub>34 · مرشّة ماء</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 345 sample 35 · ماشٍ بمظلة"><br><sub>35 · ماشٍ بمظلة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 345 sample 36 · توليب"><br><sub>36 · توليب</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 345 sample 37 · خبز باغيت"><br><sub>37 · خبز باغيت</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 345 sample 38 · بجعة"><br><sub>38 · بجعة</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 345 sample 39 · فانوس زيتي"><br><sub>39 · فانوس زيتي</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 345 sample 40 · إبريق منقّط"><br><sub>40 · إبريق منقّط</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 345 · 01 · إبريق شاي وفنجان"><br><sub>01 · إبريق شاي وفنجان</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 345 · 02 · مزهريات فخارية"><br><sub>02 · مزهريات فخارية</sub></td>
   </tr>
 </table>
 
-## نماذج 3:4 أعلى–أسفل
+<p align="center"><sub>في الأعلى الصورة الأصلية، وفي الأسفل الصورة نفسها بهذا الأسلوب.</sub></p>
 
-عشرون صورة أفقية من Unsplash بموضوع واضح، كل منها لوحة 3:4 أعلى–أسفل مكتملة. تبقى الصورة في الأعلى، وفي الأسفل عنقود من الصور الظلية المسطحة بلا خط محيط على أرضية داكنة، مناصفة دقيقة 50:50. لا يحدد الموجّه الأصلي لغة لكنه يطلب حروفًا كبيرة رفيعة ذات زوائد، لذا تستخدم النماذج كلمة إنجليزية واحدة بحروف كبيرة مأخوذة من شيء محدد في كل صورة. تميل الموضوعات إلى الطبيعة الصامتة والأواني والفاكهة والحيوانات مع قليل من المناظر والأشخاص، لتُظهر كيف تفقد الصور المزدحمة أو المبعثرة محيطها، وتستدير إلى الأمام أو الجانب، وتقترب في عنقود متراكب واحد، ولا يُضاء منها إلا شكل واحد.
+## ما هذا
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 345 sample 01 · إبريق شاي وفنجان"><br><sub>01 · إبريق شاي وفنجان</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 345 sample 02 · مزهريات فخارية"><br><sub>02 · مزهريات فخارية</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 345 sample 03 · زجاجات نبيذ"><br><sub>03 · زجاجات نبيذ</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 345 sample 04 · كمثرى"><br><sub>04 · كمثرى</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 345 sample 05 · قطة"><br><sub>05 · قطة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 345 sample 06 · شموع"><br><sub>06 · شموع</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 345 sample 07 · نباتات في أصص"><br><sub>07 · نباتات في أصص</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 345 sample 08 · بطة وصغارها"><br><sub>08 · بطة وصغارها</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 345 sample 09 · سفينة شراعية"><br><sub>09 · سفينة شراعية</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 345 sample 10 · كرسي بذراعين"><br><sub>10 · كرسي بذراعين</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 345 sample 11 · ليمون"><br><sub>11 · ليمون</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 345 sample 12 · طائر على غصن"><br><sub>12 · طائر على غصن</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 345 sample 13 · مصباح مكتب"><br><sub>13 · مصباح مكتب</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 345 sample 14 · إبريق موكا"><br><sub>14 · إبريق موكا</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 345 sample 15 · ماعز"><br><sub>15 · ماعز</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 345 sample 16 · كمان"><br><sub>16 · كمان</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 345 sample 17 · أبقار"><br><sub>17 · أبقار</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 345 sample 18 · بيت ريفي"><br><sub>18 · بيت ريفي</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 345 sample 19 · بصل"><br><sub>19 · بصل</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 345 sample 20 · صياد سمك"><br><sub>20 · صياد سمك</sub></td>
-  </tr>
-</table>
+مهارة (Skill) لوكلاء الذكاء الاصطناعي مثل Claude Code وCodex. أعطها صورة فترسم عملاً نهائياً بصيغة PNG وفق الموجّه الأصلي للوحة 345.
 
-## الحالات المناسبة والمشكلات التي يحلها
+- **كيف تبدو النتيجة:** يتحول العنصر والأشياء القليلة الملاصقة له إلى ظلال مسطّحة تُرى من الأمام أو من الجانب، بلا خطوط محيطة وبلا تفاصيل داخلية تقريباً، وحوافها ناعمة فيها تموّج خفيف كأنها مقصوصة باليد. تتداخل بأطوال مختلفة في مجموعة واحدة تستقر قاعدتها على خط غير مرئي، كأنها موضوعة بهدوء على سطح طاولة. الأرضية هي أدكن لون في الصورة بعد تعميقه مع الإبقاء على أثر من درجته، والظلال مساحات رمادية وردية خافتة، وواحدة فقط تُرفع إلى ما يقارب الأبيض الدافئ فتبدو مضاءة. يكسو كل شيء حُبيبات ناعمة مسحوقية كأثر الغواش بالفرشاة الجافة. تميل المجموعة قليلاً إلى جانب، وفي المساحة الداكنة بجانبها كلمة صغيرة واحدة بحروف كبيرة مذيّلة رفيعة؛ ولا يوضع أي نص على نصف الصورة.
+- **كلمات مفتاحية:** ظلال مسطّحة بلا خطوط · مجموعة متداخلة · أرضية داكنة · مساحات رمادية وردية خافتة · شكل واحد مضاء · حبيبات غواش جاف
+- **ما يمكنك صنعه:** مقارنة علوية سفلية (الصورة فوق والتصميم تحت)، أو مقارنة يمين ويسار، أو التصميم وحده، أو مجموعة خلفيات للهاتف والجهاز اللوحي والحاسوب والساعة. يمكنك اختيار أكثر من نوع وبأي نسبة أو أبعاد.
+- **ما ليس هو:** ليس فلتراً ولا قالباً: كل صورة تُرسم من جديد من صورتك، وكل صورة مهمة مستقلة.
 
-يناسب الصور التي فيها موضوع واحد واضح وبجانبه بضعة أشياء صغيرة مرتبطة به: طقم شاي، أو بضع جرار وزجاجات، أو صحن فاكهة، أو قطة وكرسيها، أو شخص وما يحمله. وينقذ أيضًا التكوين الضعيف أو الخلفية المزدحمة أو الموضوع الصغير — إذ يحذف النصف السفلي المحيط، ويدير الأشياء إلى الأمام أو الجانب، ويقرّبها في عنقود متراكب واحد، فتصير الصورة طبيعة صامتة ليلية هادئة ومقنعة. وحين تكون الصورة شارعًا أو منظرًا أو داخل غرفة، يُرسم شيء واحد أو جزء واحد هو الأكثر تمثيلًا فقط.
+## ابدأ في ثلاث خطوات
 
-المفتاح صور ظلية مسطحة بلا خط محيط، وتراكب أمامي–خلفي في عنقود واحد، وخط قاعدة أفقي غير مرئي مشترك، وأرضية داكنة مأخوذة من أعمق لون في الصورة، ومساحات رمادية باستيلية خافتة، وشكل واحد فقط مضاء قريب من الأبيض الدافئ، وحبيبات غواش جاف دقيقة، وكلمة واحدة بحروف كبيرة رفيعة ذات زوائد في الفراغ الداكن بجانب العنقود. تجنّب نسخ المشهد كاملًا، والخلفية الممتلئة، والصور الظلية المتفرقة، والخطوط المحيطة، والأشكال المتساوية في السطوع، والإضاءة المجسّمة، والأسود الخالص، والتدرجات، وألوان الحلوى المشبعة، والحواف المتجهية المفرطة النظافة.
-
-## نصائح الاستخدام
-
-- **ابدأ بصورة واحدة واضحة:** اختر صورة يسهل تمييز موضوعها وحركتها وعلاقاتها، ثم حدّد طريقة الإخراج ونسبته.
-- **اجمع المعاملات في جملة واحدة:** قل «علوي-سفلي / يسار-يمين / تصميم فقط + 16:9 / 3:4 / خلفية هاتف»، ويمكنك إضافة مقاس الكمبيوتر أو الجهاز اللوحي أو الساعة الذكية.
-- **حدّد ما يجب الحفاظ عليه:** اذكر الأشخاص والأشياء والحركات والعلاقات والنص المطلوب إبقاؤه، واترك مساحة كافية للأسلوب كي يصمم التخطيط.
-- **اختر طريقة النص:** دع النموذج يولّد النص من الصورة، أو ثبّت الصياغة حرفياً عبر `--text exact --copy`، أو ألغِ النص تماماً عبر `--text none`.
-- **وضّح منطقتي الواقع والتصميم:** في العلوي-السفلي أو اليسار-يمين، اذكر أي منطقة تحتفظ بالصورة وأيها يعاد تصميمها؛ وفي التصميم فقط والخلفيات اذكر أن اللوحة كلها يعاد تصميمها.
-- **اختبر صورة واحدة قبل المعالجة الدفعية:** أكّد النمط والنسبة والنص واللغة على صورة واحدة، ثم استخدم الإعدادات نفسها لمجلد كامل؛ غيّر متغيراً واحداً في كل جولة.
-
-## البدء
-
-التثبيت من GitHub:
+**1. التثبيت.** يعمل مع Claude Code وCodex وغيرهما من الوكلاء الداعمين للمهارات:
 
 ```bash
 npx skills add https://github.com/nevertoday/xxd-panel-345 --skill xxd-panel-345
 ```
 
-بعد التثبيت أعد تشغيل جلسة Agent ثم استدعِ `$xxd-panel-345`. ويمكن إضافة `--global --agent codex --yes` للتثبيت على مستوى المستخدم.
+ثم أعد تشغيل جلسة الوكيل. يمكنك أيضاً تنفيذ `git clone` لهذا المستودع وربط المجلد بـ `~/.claude/skills/xxd-panel-345` أو `~/.codex/skills/xxd-panel-345`.
+
+**2. تأكد أن وكيلك يستطيع توليد الصور.** لا تحتوي هذه المهارة على نموذج صور خاص بها، بل تستخدم قدرة وكيلك على توليد الصور، ويُفضَّل GPT Image 2.
+
+- يعمل Codex مباشرة عندما يكون توليد الصور المدمج مفعّلاً.
+- أما Claude Code والوكلاء الذين لا يملكون توليد صور مدمجاً فيحتاجون إلى واجهة صور متوافقة مع OpenAI، ويستغرق الإعداد نحو خمس دقائق: راجع [إعداد توليد الصور](#إعداد-توليد-الصور).
+
+لست متأكداً؟ جرّب مباشرة. إذا تعذّر التوليد فستتوقف المهارة وتخبرك قبل أن تبدأ أي عمل.
+
+**3. أرسل صورة وقل جملة واحدة:**
+
+> استخدم xxd-panel-345 لتحويل هذه الصورة إلى ملصق علوي سفلي بنسبة 3:4 مع عنوان بالعربية.
+
+إذا كان طلبك كاملاً فسيبدأ فوراً، وما تركته (التخطيط أو النسبة أو النص) سيسألك عنه في سؤال أو سؤالين عادةً. تُحفظ النتائج بصيغة PNG في مجلد جديد داخل `~/Desktop/xxd/xxd-panel-345/`.
+
+## الصور الأنسب
+
+**تناسبه**
+
+- عنصر واحد مع بضعة أشياء صغيرة مرتبطة به: طقم شاي، بضع قوارير وجرار، طبق فاكهة
+- شخص أو حيوان مع الأشياء التي بجانبه: قطة وكرسيّها، شخص يحمل مظلة
+- صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، تُجمع في مجموعة طبيعة صامتة واحدة
+
+**لا تناسبه كثيراً**
+
+- صور تحتاج إلى منظور أو إضاءة مجسّمة أو ملامح وخامات واضحة
+- طلب رسم شارع أو منظر طبيعي أو غرفة كاملة، إذ لا يُحتفظ إلا بعنصر واحد أو جزء منه
+- طلب خلفية فاتحة أو أرضية سوداء خالصة أو تدرّجات أو خطوط محيطة أو ألوان حلوى مشبعة
+
+## نماذج
+
+كل صورة أدناه نتيجة نهائية صنعتها هذه المهارة من صورة واحدة. استُخدمت صور مختلفة للمقارنات العلوية السفلية والجانبية.
+
+### علوي سفلي: الصورة فوق والتصميم تحت
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 345 · 01 · إبريق شاي وفنجان"><br><sub>01 · إبريق شاي وفنجان</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 345 · 02 · مزهريات فخارية"><br><sub>02 · مزهريات فخارية</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 345 · 03 · زجاجات نبيذ"><br><sub>03 · زجاجات نبيذ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 345 · 04 · كمثرى"><br><sub>04 · كمثرى</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>عرض 16 أخرى</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 345 · 05 · قطة"><br><sub>05 · قطة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 345 · 06 · شموع"><br><sub>06 · شموع</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 345 · 07 · نباتات في أصص"><br><sub>07 · نباتات في أصص</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 345 · 08 · بطة وصغارها"><br><sub>08 · بطة وصغارها</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 345 · 09 · سفينة شراعية"><br><sub>09 · سفينة شراعية</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 345 · 10 · كرسي بذراعين"><br><sub>10 · كرسي بذراعين</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 345 · 11 · ليمون"><br><sub>11 · ليمون</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 345 · 12 · طائر على غصن"><br><sub>12 · طائر على غصن</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 345 · 13 · مصباح مكتب"><br><sub>13 · مصباح مكتب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 345 · 14 · إبريق موكا"><br><sub>14 · إبريق موكا</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 345 · 15 · ماعز"><br><sub>15 · ماعز</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 345 · 16 · كمان"><br><sub>16 · كمان</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 345 · 17 · أبقار"><br><sub>17 · أبقار</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 345 · 18 · بيت ريفي"><br><sub>18 · بيت ريفي</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 345 · 19 · بصل"><br><sub>19 · بصل</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 345 · 20 · صياد سمك"><br><sub>20 · صياد سمك</sub></td>
+  </tr>
+</table>
+
+</details>
+
+### يمين ويسار: الصورة يساراً والتصميم يميناً
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 345 · 21 · زهور في مزهرية"><br><sub>21 · زهور في مزهرية</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 345 · 22 · زرافة"><br><sub>22 · زرافة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 345 · 23 · صبار ساغوارو"><br><sub>23 · صبار ساغوارو</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 345 · 24 · بلشون رمادي"><br><sub>24 · بلشون رمادي</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>عرض 16 أخرى</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 345 · 25 · كأس نبيذ"><br><sub>25 · كأس نبيذ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 345 · 26 · فطر"><br><sub>26 · فطر</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 345 · 27 · تفاح"><br><sub>27 · تفاح</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 345 · 28 · كلب جالس"><br><sub>28 · كلب جالس</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 345 · 29 · فلامنغو"><br><sub>29 · فلامنغو</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 345 · 30 · غيتار أكوستيك"><br><sub>30 · غيتار أكوستيك</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 345 · 31 · نخلة"><br><sub>31 · نخلة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 345 · 32 · إوزة"><br><sub>32 · إوزة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 345 · 33 · بومة"><br><sub>33 · بومة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 345 · 34 · مرشّة ماء"><br><sub>34 · مرشّة ماء</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 345 · 35 · ماشٍ بمظلة"><br><sub>35 · ماشٍ بمظلة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 345 · 36 · توليب"><br><sub>36 · توليب</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 345 · 37 · خبز باغيت"><br><sub>37 · خبز باغيت</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 345 · 38 · بجعة"><br><sub>38 · بجعة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 345 · 39 · فانوس زيتي"><br><sub>39 · فانوس زيتي</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 345 · 40 · إبريق منقّط"><br><sub>40 · إبريق منقّط</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## قلها ببساطة
+
+لا حاجة إلى حفظ المعاملات. قل ما تريد:
+
+| تريد | قل |
+|---|---|
+| مقارنة علوية سفلية | اجعلها مقارنة علوية سفلية بنسبة 3:4 |
+| مقارنة يمين ويسار | اجعلها مقارنة جانبية 16:9 والصورة على اليسار |
+| التصميم فقط | التصميم فقط بلا صورة، عمودي 9:16 |
+| مجموعة خلفيات | خلفيات متناسقة للهاتف والجهاز اللوحي والحاسوب والساعة |
+| عدة نسب | اصنع هذه الصورة بنسب 1:1 و3:4 و16:9 |
+| نصك أنت | العنوان «دع الريح تمر» كما هو حرفياً |
+| بلا نص | بدون أي نص |
+| لغة النص | اكتب النص باليابانية |
+| مجلد كامل | حوّل كل صور هذا المجلد إلى مقارنات علوية سفلية |
+| مثل المرة السابقة | استخدم إعداداتي السابقة |
+
+تفضّل سطر الأوامر؟ المعاملات تقابل ما سبق واحداً بواحد:
 
 ```text
-/xxd-panel-345 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ar-SA
-/xxd-panel-345 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-345 photo.jpg --mode design-only --size 9:16 --text none --prefs off
+/xxd-panel-345 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ar
+/xxd-panel-345 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-345 ./photos --mode left-right --size 16:9 --text prompt --locale en-US
 ```
 
-راجع [SKILL.md](SKILL.md) لعقد التشغيل الكامل، ومهايئ التشغيل [بالإنجليزية](references/xxd-panel-345-prompt.en.md) أو [بالصينية](references/xxd-panel-345-prompt.zh-CN.md).
+كل المعاملات في قسم [المعاملات](#المعاملات).
+
+## أسئلة شائعة
+
+**هل يجب أن تظهر الصورة الأصلية؟** لا. اطلب «التصميم فقط» أو مجموعة خلفيات فتصبح اللوحة كلها تصميماً.
+
+**من يكتب النص؟** افتراضياً يكتبه نموذج الصور انطلاقاً من صورتك، وأنت تختار اللغة فقط. إن أعطيته كلماتك استُخدمت حرفياً، ويمكنك طلب عدم وجود نص. أي معلومة تبدو واقعية (أماكن، تواريخ، أرقام) تأتي منك أو مما يظهر في الصورة فقط، ولا تُختلق.
+
+**ماذا لو لم تعجبني النتيجة؟** قل «واحدة أخرى». يعيد الرسم من الصورة الأصلية بدلاً من تعديل النتيجة السابقة، لذا تختلف كل محاولة.
+
+**هل تختلط الصور في الدفعة الواحدة؟** لا. تُولَّد كل صورة وحدها ولا تستعير ألوان صورة أخرى أو نصها أو تكوينها. وتُسأل عن الإعدادات مرة واحدة للدفعة كلها.
+
+**إلى أين تذهب صوري؟** إلى نموذج الصور الذي يستخدمه وكيلك فقط. لا ترفع المهارة شيئاً إلى أي مكان آخر ولا تعرض العناوين أو المفاتيح.
+
+**ما علاقة هذا بلوحات Panel الأخرى؟** لوحات XXD Panel عائلة من الأساليب، لكل رقم أسلوب مستقل، فثبّت ما يعجبك فقط. لتدع الذكاء الاصطناعي يقترح أسلوباً لصورة أو تقارن عدة أساليب، استخدم الفهرس [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
 
 ## الموجّه الأصلي
 
-يُحفظ [النص الصيني الكامل](references/original-prompt/zh-CN.md) حرفياً بوصفه المرجع الوحيد للإبداع والجماليات أثناء التشغيل. تتضمن هذه الدفعة إرشادات استخدام بخمس لغات، دون أربع ترجمات إضافية للنص الطويل. ملخصات الأسلوب للاكتشاف فقط ولا تحل محل الأصل.
+يحدّد هذا الأسلوبَ بالكامل [الموجّهُ الأصلي](references/original-prompt/zh-CN.md) الذي كتبه شياوشياودونغ (بالصينية). تضيف المهارة في آخره فقط إعدادات التخطيط والحجم والنص التي تختارها، ولا تلخّصه أو تترجمه أو تعيد كتابته.
 
-## فحص الملاءمة السريع
+ترجمات للقراءة (للاطلاع فقط ولا تُرسل إلى نموذج الصور): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-احفظ هوية الأصل مع إعادة إخراج التكوين، واجمع ملمس الخامة والفراغ المقصود. اختر نصاً حرفياً أو مولداً أو بلا نص، مع معالجة صورة واحدة أو مجلد متداخل والأنماط الأربعة أدناه.
+## إعداد توليد الصور
 
-## أنماط الإخراج الأربعة
+تحتاج إلى واجهة متوافقة مع OpenAI تقدّم `gpt-image-2` (أو نموذجاً متوافقاً) ومفتاح API لها. الخطوات التالية تنشئ إعداداً منفصلاً ولا تمس إعدادات Codex:
 
-- `top-bottom`: منطقتان أفقيتان كاملتا العرض فقط؛ الواقع في الأعلى والتصميم في الأسفل، 50% لكل منهما.
-- `left-right`: منطقتان عموديتان كاملتا الارتفاع فقط؛ الواقع يساراً والتصميم يميناً، 50% لكل منهما، ولا يتحول إلى تخطيط علوي/سفلي.
-- `design-only`: تعرض اللوحة الكاملة ترجمة Panel 345 التصميمية فقط، وتبقى الصورة مرجعاً غير ظاهر.
-- `wallpaper-pack`: ينشئ عملاً كاملاً للهاتف وiPad وسطح المكتب والساعة، إما كعائلة `linked` أو أربعة أعمال `independent`.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-يمكن جمع الأنماط والأحجام. تشمل النسب `1:1` و`3:4` و`4:3` و`4:5` و`5:4` و`2:3` و`3:2` و`9:16` و`16:9` و`21:9` و`5:7` و`7:5` والبكسلات الدقيقة. يمكن أن يكون النص مولداً أو حرفياً من المستخدم أو غائباً. عند إدخال مجلد، تُعالج كل صورة بمعزل عن الأخرى مع إعدادات تسليم مشتركة، وتوضع ملفات PNG النهائية مباشرة في مجلد مهمة جديد واحد.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+أعد فتح الطرفية والوكيل، ثم تحقّق مرة واحدة من مجلد هذه المهارة:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+إذا ظهر `"ok":true` فقد نجح الإعداد. يعرض الفحص الجاهزية فقط ولا يطبع العنوان أو المفتاح. إذا كان Codex يولّد الصور أصلاً عبر واجهة متوافقة فلا حاجة إلى هذه الخطوة.
+
+## المعاملات
+
+| المعامل | القيم |
+|---|---|
+| `--mode` | `top-bottom` علوي سفلي · `left-right` يمين ويسار · `design-only` التصميم فقط · `wallpaper-pack` خلفيات لأربعة أجهزة؛ يمكن الجمع |
+| `--size` | `auto` موصى به · `source` مثل الصورة · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · أبعاد دقيقة مثل `2160x3840`؛ يمكن الجمع |
+| `--text` | `prompt` يُكتب من الصورة · `exact` كلماتك (مع `--copy "…"`) · `none` بلا نص |
+| `--locale` | لغة النص، مثل `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` مجموعة متناسقة · `independent` أربعة تصاميم مستقلة |
+| `--wallpaper-size` | أبعاد كل جهاز، مثل `phone=1440x3200,desktop=3840x2160` |
+| `--out` | مجلد إخراج آخر (الافتراضي `~/Desktop/xxd/xxd-panel-345/`) |
+| `--prefs` | `last` كالسابق · `edit` تعديل السابق · `new` اختيار جديد · `off` لا تحفظ هذه المرة · `clear` امسح السجل |
+
+- إذا اكتملت القيم فلا أسئلة، وإلا تُسأل عن الناقص فقط. مرّر مجلداً بدلاً من `photo.jpg` للمعالجة الدفعية.
+- تُولَّد التركيبات واحدة واحدة: نمطان × ثلاثة أحجام = 6 صور، كل منها مركّبة للوحتها لا مقصوصة.
+- المقارنات 50:50 بدقة. عادةً يرسم النموذج نصف التصميم فقط ويضع برنامج الصورة الأصلية كما هي بجانبه، فيكون الفاصل في المنتصف ولا تتغير الصورة.
+- أسماء الملفات بهذا الشكل `source-001-street-top-bottom-3x4-1152x1536.png`، وكلها في مجلد مهمة واحد.
+- يُحفظ التخطيط والحجم وطريقة النص واللغة فقط، ولا تُحفظ الصور أو النصوص أو المفاتيح.
 
 <!-- xxd-readme-ads:start -->
 ## عن XXD
@@ -207,3 +321,5 @@ XXD هو اختصار اسم علامة Xiaoxiaodong. أنشأ هذا المشر
 - لا تمنح الاتفاقية سوى ترخيص حقوق النشر والترخيص المحدود لبراءات الاختراع المنصوص عليهما صراحةً. ولا تمنح علامات تجارية أو أسماء علامات أو حقوقاً أخرى غير مذكورة، ولا يجوز لك منح ترخيصك من الباطن للآخرين.
 - إذا تلقيت إشعاراً كتابياً بمخالفة، فعليك العودة إلى الامتثال واتخاذ خطوات عملية لمعالجة المخالفة خلال 32 يوماً، وإلا تنتهي التراخيص فوراً. كما يؤدي الادعاء الكتابي بانتهاك براءة اختراع إلى إنهاء ترخيص البراءة.
 - تُقدَّم المواد «كما هي» ومن دون أي ضمان بالقدر الذي يسمح به القانون. ويتحمل المستخدم مخاطر الاستخدام وخسائره المحتملة.
+
+</div>

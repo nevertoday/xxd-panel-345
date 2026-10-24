@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 345｜Dark-Ground Silhouettes: keeps the photo and presses its subject and the few things right beside it into flat, outline-free silhouettes seen front-on or in profile, overlapped into one cluster standing on an invisible line across a deep ground darkened from the photo's own darkest colour — muted pastel-grey shapes with soft, slightly hand-cut edges, fine dry-gouache grain, exactly one shape lifted to near warm white so it looks lit, the group set a little to one side in wide dark space, and one small word in thin serif capitals beside it. Scenes are reduced to one representative element. The photo half carries no text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-345 or asks for a flat silhouette still life, dark-ground gouache cut shapes or night-toned silhouette art from a photo.",
+  "short_description": "暗底剪影：把照片主体压成无描边平涂剪影，叠成一簇立在深色底上，只亮一块",
+  "zh-CN": {
+    "name": "暗底剪影",
+    "tagline": "把照片主体和身边几样东西压成平涂剪影，叠成一簇立在深色底上。",
+    "look": "主体和紧挨它的几样东西被转成正面或正侧面的平涂剪影，没有描边、几乎没有内部细节，边缘柔和、带点手剪的起伏。它们高矮错落、前后叠压成一簇，底边落在一条看不见的水平线上，像安静地摆在台面上。底色是把照片最深的颜色再压暗、留一点色相，剪影是低饱和的粉灰色块，只有一块提亮到接近暖白，像被点亮。整面带着干笔水粉般的细密粉感颗粒。剪影组略偏一侧，另一侧的深色空地里有一个纤细的衬线大写小词，照片那一半不放字。",
+    "traits": [
+      "无描边平涂剪影",
+      "前后叠压成一簇",
+      "深色底",
+      "低饱和粉灰色块",
+      "唯一一块亮面",
+      "干笔水粉颗粒"
+    ],
+    "good": [
+      "一个主体加几样相关小东西：一套茶具、几只瓶罐、一盘水果",
+      "人或动物和他们身边的物件：一只猫和它的椅子、一个人和手里的雨伞",
+      "构图差、背景乱或主体很小的照片，会被挪近叠成一簇静物"
+    ],
+    "poor": [
+      "需要透视、立体光影或看清五官和材质的照片",
+      "想画整条街、整片风景或完整房间的需求，这里只取一个单体或片段",
+      "想要明亮背景、纯黑底、渐变、带描边或高饱和糖果色的需求"
+    ]
+  },
+  "en": {
+    "name": "Dark-Ground Silhouettes",
+    "tagline": "Presses the subject of your photo and a few nearby things into flat silhouettes, clustered on a dark ground.",
+    "look": "The subject and the few things right beside it become flat silhouettes seen front-on or in profile, with no outline and almost no inner detail, their edges soft with a slight hand-cut wobble. They overlap at different heights into one cluster whose base sits on an invisible line, as if placed quietly on a tabletop. The ground is the photo's darkest colour pushed deeper while keeping a hint of hue, the silhouettes are muted pastel-grey shapes, and just one is lifted to near warm white so it looks lit. Everything carries a fine, powdery dry-gouache grain. The cluster sits a little to one side, with one small word in thin serif capitals in the dark space beside it; the photo half carries no text.",
+    "traits": [
+      "Outline-free flat silhouettes",
+      "Overlapping cluster",
+      "Dark ground",
+      "Muted pastel-grey shapes",
+      "One lit shape",
+      "Dry-gouache grain"
+    ],
+    "good": [
+      "One subject with a few related small things: a tea set, a few jars and bottles, a plate of fruit",
+      "A person or animal with the objects beside them: a cat and its chair, a person holding an umbrella",
+      "Photos with weak composition, messy backgrounds or a small subject, which get gathered into one still-life cluster"
+    ],
+    "poor": [
+      "Photos that need perspective, 3D lighting or visible faces and materials",
+      "Requests to show a whole street, landscape or room, since only one element or fragment is kept",
+      "Requests for a bright background, pure black ground, gradients, outlines or saturated candy colours"
+    ]
+  },
+  "ja": {
+    "name": "暗い地のシルエット",
+    "tagline": "写真の主役とそばの数点を平塗りのシルエットにし、暗い地の上にひとかたまりに重ねます。",
+    "look": "主役とすぐそばの数点を、正面か真横から見た平塗りのシルエットにします。輪郭線はなく、内部の細部もほとんど描かず、縁は柔らかく少し手で切ったような揺らぎがあります。高さの違う形が前後に重なってひとかたまりになり、底辺は見えない水平線にそろい、台の上に静かに置かれたように見えます。地の色は写真のいちばん暗い色をさらに沈め、わずかに色味を残したもの。シルエットは彩度を落としたパウダーグレーの色面で、一つだけが温かい白近くまで明るく、灯ったように浮かびます。全体にドライブラシのガッシュのような細かな粉っぽい粒子がかかります。かたまりは少し片側に寄り、反対側の暗い空きに細いセリフ体の大文字で一語だけ入ります。写真側には文字を入れません。",
+    "traits": [
+      "輪郭線のない平塗りシルエット",
+      "前後に重なるひとかたまり",
+      "暗い地",
+      "彩度を抑えたパウダーグレー",
+      "ただ一つの明るい面",
+      "ドライガッシュの粒子"
+    ],
+    "good": [
+      "主役と関連する小物がいくつかある写真：茶器一式、いくつかの瓶や壺、果物の皿",
+      "人や動物とそのそばの物：猫とその椅子、傘を持つ人",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（寄せて重ね、一つの静物にまとめます）"
+    ],
+    "poor": [
+      "遠近法、立体的な陰影、顔立ちや素材感を見せる必要がある写真",
+      "通り、風景、部屋全体を描きたい場合（一つの単体か一部分だけを残します）",
+      "明るい背景、真っ黒な地、グラデーション、輪郭線、彩度の高いキャンディカラーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "어두운 바탕의 실루엣",
+    "tagline": "사진 속 주인공과 곁의 몇 가지를 평면 실루엣으로 눌러 어두운 바탕 위에 한 무리로 겹쳐 세웁니다.",
+    "look": "주인공과 바로 곁의 몇 가지를 정면이나 정측면 평면 실루엣으로 바꿉니다. 외곽선이 없고 내부 세부도 거의 없으며, 가장자리는 부드럽고 손으로 오린 듯한 굴곡이 살짝 있습니다. 높낮이가 다른 형태들이 앞뒤로 겹쳐 한 무리를 이루고, 밑변은 보이지 않는 수평선에 놓여 탁자 위에 조용히 올려 둔 것처럼 보입니다. 바탕은 사진에서 가장 어두운 색을 더 가라앉히되 색조를 조금 남긴 것이고, 실루엣은 채도 낮은 분홍빛 회색 면이며, 단 하나만 따뜻한 흰색에 가깝게 밝아져 불이 켜진 듯 떠오릅니다. 전체에 드라이 브러시 과슈 같은 고운 분말 입자가 덮여 있습니다. 실루엣 무리는 한쪽으로 조금 치우치고, 반대쪽 어두운 빈 곳에 가는 세리프 대문자로 된 작은 단어 하나가 놓입니다. 사진 쪽에는 글자를 넣지 않습니다.",
+    "traits": [
+      "외곽선 없는 평면 실루엣",
+      "앞뒤로 겹친 한 무리",
+      "어두운 바탕",
+      "채도 낮은 분홍빛 회색",
+      "단 하나의 밝은 면",
+      "드라이 과슈 입자"
+    ],
+    "good": [
+      "주인공과 관련된 작은 물건 몇 가지가 있는 사진: 다기 한 벌, 병과 단지 몇 개, 과일 한 접시",
+      "사람이나 동물과 그 곁의 물건: 고양이와 의자, 우산을 든 사람",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(가까이 모아 겹쳐 하나의 정물로 만듭니다)"
+    ],
+    "poor": [
+      "원근감, 입체 명암, 얼굴이나 재질이 보여야 하는 사진",
+      "거리, 풍경, 방 전체를 그리고 싶은 경우(단일 요소나 일부만 남깁니다)",
+      "밝은 배경, 새까만 바탕, 그라데이션, 외곽선, 채도 높은 캔디 색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ظلال على أرضية داكنة",
+    "tagline": "يضغط العنصر الرئيسي في صورتك وبضعة أشياء قربه في ظلال مسطّحة تتجمّع على أرضية داكنة.",
+    "look": "يتحول العنصر والأشياء القليلة الملاصقة له إلى ظلال مسطّحة تُرى من الأمام أو من الجانب، بلا خطوط محيطة وبلا تفاصيل داخلية تقريباً، وحوافها ناعمة فيها تموّج خفيف كأنها مقصوصة باليد. تتداخل بأطوال مختلفة في مجموعة واحدة تستقر قاعدتها على خط غير مرئي، كأنها موضوعة بهدوء على سطح طاولة. الأرضية هي أدكن لون في الصورة بعد تعميقه مع الإبقاء على أثر من درجته، والظلال مساحات رمادية وردية خافتة، وواحدة فقط تُرفع إلى ما يقارب الأبيض الدافئ فتبدو مضاءة. يكسو كل شيء حُبيبات ناعمة مسحوقية كأثر الغواش بالفرشاة الجافة. تميل المجموعة قليلاً إلى جانب، وفي المساحة الداكنة بجانبها كلمة صغيرة واحدة بحروف كبيرة مذيّلة رفيعة؛ ولا يوضع أي نص على نصف الصورة.",
+    "traits": [
+      "ظلال مسطّحة بلا خطوط",
+      "مجموعة متداخلة",
+      "أرضية داكنة",
+      "مساحات رمادية وردية خافتة",
+      "شكل واحد مضاء",
+      "حبيبات غواش جاف"
+    ],
+    "good": [
+      "عنصر واحد مع بضعة أشياء صغيرة مرتبطة به: طقم شاي، بضع قوارير وجرار، طبق فاكهة",
+      "شخص أو حيوان مع الأشياء التي بجانبه: قطة وكرسيّها، شخص يحمل مظلة",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، تُجمع في مجموعة طبيعة صامتة واحدة"
+    ],
+    "poor": [
+      "صور تحتاج إلى منظور أو إضاءة مجسّمة أو ملامح وخامات واضحة",
+      "طلب رسم شارع أو منظر طبيعي أو غرفة كاملة، إذ لا يُحتفظ إلا بعنصر واحد أو جزء منه",
+      "طلب خلفية فاتحة أو أرضية سوداء خالصة أو تدرّجات أو خطوط محيطة أو ألوان حلوى مشبعة"
+    ]
+  }
+}

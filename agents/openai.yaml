@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 345"
-  short_description: "暗底剪影：上半保留原照，下半把主体压成无描边的平涂剪影，前后叠成一簇立在深色底上，只有一块被点亮"
-  default_prompt: "Use $xxd-panel-345 to transform my photograph following the complete canonical source brief."
+  short_description: "暗底剪影：把照片主体压成无描边平涂剪影，叠成一簇立在深色底上，只亮一块"
+  default_prompt: "Use $xxd-panel-345 to turn my photo into Dark-Ground Silhouettes artwork."
